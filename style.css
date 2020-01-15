@@ -1,0 +1,43 @@
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto-light {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+    padding-left: 0px!important;
+}
+
+/* .nav-link {
+    border-bottom: 1px grey solid;
+    margin-left: 8px!important;
+    margin-right: 8px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    padding-bottom: 2px!important;
+} */
+
+article {
+    margin: 2em 0px;
+}
+
+p::first-letter {
+    initial-letter: 4!important;
+}
