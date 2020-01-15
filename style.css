@@ -38,6 +38,7 @@ article {
     margin: 2em 0px;
 }
 
+/* This doesn't work. */
 p::first-letter {
     initial-letter: 4!important;
 }
